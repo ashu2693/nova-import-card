@@ -17,7 +17,7 @@ A customizable import card for laravel nova. This package is more or less just a
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require sparclex/nova-import-card
+composer require ashu2693/nova-import-card
 ```
 
 Next up, you must register the card. This is typically done in the `card` method of the corresponding resource or the 
